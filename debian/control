@@ -1,0 +1,12 @@
+Source: ros-melodic-remote-rosbag-record
+Section: misc
+Priority: optional
+Maintainer: Yoshito Okada <yoshito@rm.is.tohoku.ac.jp>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-rosbag, ros-melodic-roscpp, ros-melodic-std-msgs, ros-melodic-std-srvs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-remote-rosbag-record
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-rosbag, ros-melodic-roscpp, ros-melodic-std-msgs, ros-melodic-std-srvs
+Description: The remote_rosbag_record package
