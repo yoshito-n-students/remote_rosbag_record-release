@@ -1,8 +1,0 @@
-ros-melodic-remote-rosbag-record (0.0.1-1bionic) bionic; urgency=high
-
-  * Initial version
-  * Contributors: Tim Clephas, Yoshito Okada
-
- -- Yoshito Okada <yoshito@rm.is.tohoku.ac.jp>  Sun, 15 Mar 2020 15:00:00 -0000
-
-
