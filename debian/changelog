@@ -1,0 +1,15 @@
+ros-noetic-remote-rosbag-record (0.0.2-1focal) focal; urgency=high
+
+  * call() returns number of successfull service calls
+  * Add joy_listener node that calls start/stop services according to joystick input
+
+ -- Yoshito Okada <okada@rm.is.tohoku.ac.jp>  Tue, 24 Mar 2020 15:00:00 -0000
+
+ros-noetic-remote-rosbag-record (0.0.1-1focal) focal; urgency=high
+
+  * Initial version
+  * Contributors: Tim Clephas, Yoshito Okada
+
+ -- Yoshito Okada <okada@rm.is.tohoku.ac.jp>  Sun, 15 Mar 2020 15:00:00 -0000
+
+
