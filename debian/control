@@ -1,0 +1,12 @@
+Source: ros-kinetic-remote-rosbag-record
+Section: misc
+Priority: optional
+Maintainer: Yoshito Okada <okada@rm.is.tohoku.ac.jp>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-rosbag, ros-kinetic-roscpp, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-std-srvs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-remote-rosbag-record
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-rosbag, ros-kinetic-roscpp, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-std-srvs
+Description: The remote_rosbag_record package
