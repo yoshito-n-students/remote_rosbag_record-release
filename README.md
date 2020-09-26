@@ -1,3 +1,26 @@
+## remote_rosbag_record (kinetic) - 0.0.4-1
+
+The packages in the `remote_rosbag_record` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release remote_rosbag_record --rosdistro kinetic` on `Sat, 26 Sep 2020 00:50:08 -0000`
+
+The `remote_rosbag_record` package was released.
+
+Version of package(s) in repository `remote_rosbag_record`:
+
+- upstream repository: https://github.com/yoshito-n-students/remote_rosbag_record.git
+- release repository: https://github.com/yoshito-n-students/remote_rosbag_record-release.git
+- rosdistro version: `0.0.2-1`
+- old version: `0.0.3-1`
+- new version: `0.0.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.8`
+- catkin_pkg version: `0.4.22`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.42`
+
+
 ## remote_rosbag_record (melodic) - 0.0.4-1
 
 The packages in the `remote_rosbag_record` repository were released into the `melodic` distro by running `/usr/bin/bloom-release remote_rosbag_record --rosdistro melodic` on `Sat, 26 Sep 2020 00:41:26 -0000`
