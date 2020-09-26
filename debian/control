@@ -1,0 +1,12 @@
+Source: ros-noetic-remote-rosbag-record
+Section: misc
+Priority: optional
+Maintainer: Yoshito Okada <okada@rm.is.tohoku.ac.jp>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-rosbag, ros-noetic-roscpp, ros-noetic-sensor-msgs, ros-noetic-std-msgs, ros-noetic-std-srvs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-remote-rosbag-record
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-rosbag, ros-noetic-roscpp, ros-noetic-sensor-msgs, ros-noetic-std-msgs, ros-noetic-std-srvs
+Description: The remote_rosbag_record package
